@@ -3,12 +3,16 @@
 
 该项目的核心架构是一个**基于大语言模型（如DeBERTa）的“教师-学生”（Teacher-Student）知识蒸馏与伪标签（Pseudo Labeling）系统**。
 
+### baseline
+https://www.kaggle.com/code/yasufuminakama/nbme-deberta-base-baseline-train#CV-split
+
 1. **输入层**：模型输入由 Patient Notes（病历文本）和 Feature List（需要提取的临床特征/症状）拼接而成。
 2. **预训练层 (MLM)**：在无标注的病历文本上进行掩码语言模型（Masked Language Modeling, MLM）的继续预训练，以适应医疗领域的文本分布。预训练可以采用以下的模型
 	- **deberta-v3-large**
 	- **deberta-v2-xlarge**
 	- **deberta-large**
 	- **deberta-v2-large**
+	  参考链接：https://www.kaggle.com/code/currypurin/nbme-mlm/
 3. **教师模型层 (Teacher Models)**：利用初始的真实标注数据（录音中提到约1000条数据）训练5个初始的大语言模型（教师模型），为了保证随机多样性，可以通过设定不同的seed，不同的预训练模型等方法。
    - 注意这里pseudo label并不是train dataset中的`[start, end]` 绝对字符索引，而是**包含3个通道（3-channel）概率值的“软标签（Soft Labels）**，为了与模型进阶训练中的“多目标辅助学习（Auxiliary Target Learning）”完全对应。（该部分和讨论中有不同不是普通的BIO或者绝对字符索引，这可在论坛答疑区查到）
 	-  **Channel 0**：Normal target（当前字符属于该临床特征的常规概率）。
