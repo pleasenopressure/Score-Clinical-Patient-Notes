@@ -1,0 +1,2 @@
+Best Epoch: 4
+Best Score: 0.8625

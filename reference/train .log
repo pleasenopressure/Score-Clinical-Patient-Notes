@@ -1,0 +1,229 @@
+pn_history max(lengths): 433
+feature_text max(lengths): 30
+max_len: 466
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.1073  avg_val_loss: 0.0556  time: 74s
+Epoch 1 - Score: 0.0000
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+========== fold: 0 training ==========
+pn_history max(lengths): 433
+feature_text max(lengths): 30
+max_len: 466
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.1079  avg_val_loss: 0.0570  time: 75s
+Epoch 1 - Score: 0.0000
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.1250  avg_val_loss: 0.0577  time: 74s
+Epoch 1 - Score: 0.0000
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 1 - Save Best Score: 0.0000 Model
+========== fold: 0 result ==========
+Score: 0.0000
+========== CV ==========
+Score: 0.0000
+========== fold: 0 training ==========
+pn_history max(lengths): 433
+pn_history max(lengths): 433
+feature_text max(lengths): 30
+feature_text max(lengths): 30
+max_len: 466
+max_len: 466
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.1013  avg_val_loss: 0.0428  time: 74s
+Epoch 1 - avg_train_loss: 0.1013  avg_val_loss: 0.0428  time: 74s
+Epoch 1 - Score: 0.5409
+Epoch 1 - Score: 0.5409
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 1 - Save Best Score: 0.5409 Model
+Epoch 1 - Save Best Score: 0.5409 Model
+Epoch 2 - avg_train_loss: 0.0353  avg_val_loss: 0.0415  time: 74s
+Epoch 2 - avg_train_loss: 0.0353  avg_val_loss: 0.0415  time: 74s
+Epoch 2 - Score: 0.5517
+Epoch 2 - Score: 0.5517
+Epoch 2 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 2 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 2 - Save Best Score: 0.5517 Model
+Epoch 2 - Save Best Score: 0.5517 Model
+========== fold: 0 result ==========
+========== fold: 0 result ==========
+Score: 0.5517
+Score: 0.5517
+========== CV ==========
+========== CV ==========
+Score: 0.5517
+Score: 0.5517
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Loading checkpoint from: ./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Loading checkpoint from: ./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Resume training from epoch 3
+Resume training from epoch 3
+Best score so far: 0.5409
+Best score so far: 0.5409
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Loading checkpoint from: ./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Loading checkpoint from: ./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Resume training from epoch 3
+Resume training from epoch 3
+Best score so far: 0.5409
+Best score so far: 0.5409
+pn_history max(lengths): 433
+pn_history max(lengths): 433
+pn_history max(lengths): 433
+feature_text max(lengths): 30
+feature_text max(lengths): 30
+feature_text max(lengths): 30
+max_len: 466
+max_len: 466
+max_len: 466
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+========== fold: 0 training ==========
+Loading checkpoint from: ./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Loading checkpoint from: ./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Loading checkpoint from: ./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Resume training from epoch 3
+Resume training from epoch 3
+Resume training from epoch 3
+Best score so far: 0.5409
+Best score so far: 0.5409
+Best score so far: 0.5409
+========== fold: 0 result ==========
+========== fold: 0 result ==========
+========== fold: 0 result ==========
+Score: 0.5517
+Score: 0.5517
+Score: 0.5517
+========== CV ==========
+========== CV ==========
+========== CV ==========
+Score: 0.5517
+Score: 0.5517
+Score: 0.5517
+pn_history max(lengths): 433
+feature_text max(lengths): 30
+max_len: 466
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.0262  avg_val_loss: 0.0137  time: 1062s
+Epoch 1 - Score: 0.8319
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 1 - Save Best Score: 0.8319 Model
+Epoch 2 - avg_train_loss: 0.0108  avg_val_loss: 0.0124  time: 1061s
+Epoch 2 - Score: 0.8569
+Epoch 2 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 2 - Save Best Score: 0.8569 Model
+Epoch 3 - avg_train_loss: 0.0094  avg_val_loss: 0.0120  time: 1061s
+Epoch 3 - Score: 0.8613
+Epoch 3 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 3 - Save Best Score: 0.8613 Model
+Epoch 4 - avg_train_loss: 0.0082  avg_val_loss: 0.0119  time: 1061s
+Epoch 4 - Score: 0.8651
+Epoch 4 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+Epoch 4 - Save Best Score: 0.8651 Model
+Epoch 5 - avg_train_loss: 0.0075  avg_val_loss: 0.0123  time: 1061s
+Epoch 5 - Score: 0.8648
+Epoch 5 - 已更新进度存档：./-kaggle-working-deberta-base_fold0_latest_checkpoint.pth
+========== fold: 0 result ==========
+Score: 0.8651
+========== fold: 1 training ==========
+Epoch 1 - avg_train_loss: 0.0291  avg_val_loss: 0.0128  time: 1061s
+Epoch 1 - Score: 0.8329
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold1_latest_checkpoint.pth
+Epoch 1 - Save Best Score: 0.8329 Model
+Epoch 2 - avg_train_loss: 0.0108  avg_val_loss: 0.0122  time: 1061s
+Epoch 2 - Score: 0.8517
+Epoch 2 - 已更新进度存档：./-kaggle-working-deberta-base_fold1_latest_checkpoint.pth
+Epoch 2 - Save Best Score: 0.8517 Model
+Epoch 3 - avg_train_loss: 0.0096  avg_val_loss: 0.0123  time: 1061s
+Epoch 3 - Score: 0.8595
+Epoch 3 - 已更新进度存档：./-kaggle-working-deberta-base_fold1_latest_checkpoint.pth
+Epoch 3 - Save Best Score: 0.8595 Model
+Epoch 4 - avg_train_loss: 0.0088  avg_val_loss: 0.0121  time: 1061s
+Epoch 4 - Score: 0.8599
+Epoch 4 - 已更新进度存档：./-kaggle-working-deberta-base_fold1_latest_checkpoint.pth
+Epoch 4 - Save Best Score: 0.8599 Model
+Epoch 5 - avg_train_loss: 0.0083  avg_val_loss: 0.0123  time: 1061s
+Epoch 5 - Score: 0.8604
+Epoch 5 - 已更新进度存档：./-kaggle-working-deberta-base_fold1_latest_checkpoint.pth
+Epoch 5 - Save Best Score: 0.8604 Model
+========== fold: 1 result ==========
+Score: 0.8604
+========== fold: 2 training ==========
+Epoch 1 - avg_train_loss: 0.0308  avg_val_loss: 0.0135  time: 1061s
+Epoch 1 - Score: 0.8167
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold2_latest_checkpoint.pth
+Epoch 1 - Save Best Score: 0.8167 Model
+Epoch 2 - avg_train_loss: 0.0110  avg_val_loss: 0.0127  time: 1062s
+Epoch 2 - Score: 0.8537
+Epoch 2 - 已更新进度存档：./-kaggle-working-deberta-base_fold2_latest_checkpoint.pth
+Epoch 2 - Save Best Score: 0.8537 Model
+Epoch 3 - avg_train_loss: 0.0096  avg_val_loss: 0.0125  time: 1062s
+Epoch 3 - Score: 0.8580
+Epoch 3 - 已更新进度存档：./-kaggle-working-deberta-base_fold2_latest_checkpoint.pth
+Epoch 3 - Save Best Score: 0.8580 Model
+Epoch 4 - avg_train_loss: 0.0086  avg_val_loss: 0.0123  time: 1062s
+Epoch 4 - Score: 0.8618
+Epoch 4 - 已更新进度存档：./-kaggle-working-deberta-base_fold2_latest_checkpoint.pth
+Epoch 4 - Save Best Score: 0.8618 Model
+Epoch 5 - avg_train_loss: 0.0082  avg_val_loss: 0.0124  time: 1062s
+Epoch 5 - Score: 0.8618
+Epoch 5 - 已更新进度存档：./-kaggle-working-deberta-base_fold2_latest_checkpoint.pth
+========== fold: 2 result ==========
+Score: 0.8618
+========== fold: 3 training ==========
+Epoch 1 - avg_train_loss: 0.0280  avg_val_loss: 0.0150  time: 1061s
+Epoch 1 - Score: 0.8218
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold3_latest_checkpoint.pth
+Epoch 1 - Save Best Score: 0.8218 Model
+Epoch 2 - avg_train_loss: 0.0108  avg_val_loss: 0.0141  time: 1061s
+Epoch 2 - Score: 0.8446
+Epoch 2 - 已更新进度存档：./-kaggle-working-deberta-base_fold3_latest_checkpoint.pth
+Epoch 2 - Save Best Score: 0.8446 Model
+Epoch 3 - avg_train_loss: 0.0095  avg_val_loss: 0.0137  time: 1062s
+Epoch 3 - Score: 0.8493
+Epoch 3 - 已更新进度存档：./-kaggle-working-deberta-base_fold3_latest_checkpoint.pth
+Epoch 3 - Save Best Score: 0.8493 Model
+Epoch 4 - avg_train_loss: 0.0087  avg_val_loss: 0.0138  time: 1061s
+Epoch 4 - Score: 0.8515
+Epoch 4 - 已更新进度存档：./-kaggle-working-deberta-base_fold3_latest_checkpoint.pth
+Epoch 4 - Save Best Score: 0.8515 Model
+Epoch 5 - avg_train_loss: 0.0081  avg_val_loss: 0.0140  time: 1061s
+Epoch 5 - Score: 0.8537
+Epoch 5 - 已更新进度存档：./-kaggle-working-deberta-base_fold3_latest_checkpoint.pth
+Epoch 5 - Save Best Score: 0.8537 Model
+========== fold: 3 result ==========
+Score: 0.8537
+========== fold: 4 training ==========
+Epoch 1 - avg_train_loss: 0.0288  avg_val_loss: 0.0134  time: 1061s
+Epoch 1 - Score: 0.8317
+Epoch 1 - 已更新进度存档：./-kaggle-working-deberta-base_fold4_latest_checkpoint.pth
+Epoch 1 - Save Best Score: 0.8317 Model
+Epoch 2 - avg_train_loss: 0.0109  avg_val_loss: 0.0125  time: 1061s
+Epoch 2 - Score: 0.8539
+Epoch 2 - 已更新进度存档：./-kaggle-working-deberta-base_fold4_latest_checkpoint.pth
+Epoch 2 - Save Best Score: 0.8539 Model
+Epoch 3 - avg_train_loss: 0.0096  avg_val_loss: 0.0123  time: 1062s
+Epoch 3 - Score: 0.8580
+Epoch 3 - 已更新进度存档：./-kaggle-working-deberta-base_fold4_latest_checkpoint.pth
+Epoch 3 - Save Best Score: 0.8580 Model
+Epoch 4 - avg_train_loss: 0.0088  avg_val_loss: 0.0123  time: 1062s
+Epoch 4 - Score: 0.8625
+Epoch 4 - 已更新进度存档：./-kaggle-working-deberta-base_fold4_latest_checkpoint.pth
+Epoch 4 - Save Best Score: 0.8625 Model
+Epoch 5 - avg_train_loss: 0.0083  avg_val_loss: 0.0122  time: 1062s
+Epoch 5 - Score: 0.8621
+Epoch 5 - 已更新进度存档：./-kaggle-working-deberta-base_fold4_latest_checkpoint.pth
+========== fold: 4 result ==========
+Score: 0.8625
+========== CV ==========
+Score: 0.8608
